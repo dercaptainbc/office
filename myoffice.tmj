@@ -20346,6 +20346,11 @@
       "width": 50,
       "properties": [
         {
+          "name": "jitsiNoPrefix",
+          "type": "bool",
+          "value": true
+        },
+        {
           "name": "jitsiRoom",
           "type": "string",
           "value": "teammeeting"
@@ -55573,7 +55578,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-a794a6fe.png",
+      "image": "myoffice-chunk-1-78c673e6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -55609,7 +55614,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-a794a6fe.png",
+      "image": "myoffice-chunk-2-78c673e6.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
