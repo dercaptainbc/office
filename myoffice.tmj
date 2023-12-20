@@ -722,6 +722,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"teammeeting"
