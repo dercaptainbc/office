@@ -722,25 +722,6 @@
                  "width":32,
                  "x":64,
                  "y":544
-                }, 
-                {
-                 "height":30,
-                 "id":21,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#005497",
-                     "fontfamily":"Sans Serif",
-                     "pixelsize":24,
-                     "text":"Port Zero",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":123.44,
-                 "x":370.28125,
-                 "y":489.166666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
