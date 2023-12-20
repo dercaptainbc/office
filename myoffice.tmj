@@ -30414,29 +30414,6 @@
       "y": 0
     },
     {
-      "name": "floorLayer",
-      "objects": [
-        {
-          "id": 14,
-          "name": "floorLayer",
-          "visible": true,
-          "x": 6.06060606060606,
-          "y": 0,
-          "height": 1600,
-          "rotation": 0,
-          "width": 1587.87878787879
-        }
-      ],
-      "opacity": 1,
-      "type": "objectgroup",
-      "visible": true,
-      "draworder": "topdown",
-      "id": 45,
-      "class": "objectgroup",
-      "x": 0,
-      "y": 0
-    },
-    {
       "data": [
         0,
         0,
@@ -55565,6 +55542,30 @@
       "width": 50,
       "x": 0,
       "y": 0
+    },
+    {
+      "name": "floorLayer",
+      "objects": [
+        {
+          "id": 14,
+          "name": "floorLayer",
+          "visible": true,
+          "x": 6.06060606060606,
+          "y": 0,
+          "height": 1600,
+          "rotation": 0,
+          "type": "",
+          "width": 1587.87878787879
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "draworder": "topdown",
+      "id": 45,
+      "class": "objectgroup",
+      "x": 0,
+      "y": 0
     }
   ],
   "tiledversion": "git",
@@ -55572,7 +55573,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-3c91f033.png",
+      "image": "myoffice-chunk-1-09d175dd.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -55608,7 +55609,7 @@
     {
       "columns": 6,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-3c91f033.png",
+      "image": "myoffice-chunk-2-09d175dd.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,
