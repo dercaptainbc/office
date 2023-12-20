@@ -1311,7 +1311,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         0,
         0,
@@ -12618,7 +12618,7 @@
       "name": "snowsound",
       "opacity": 1,
       "type": "tilelayer",
-      "visible": false,
+      "visible": true,
       "width": 50,
       "properties": [
         {
@@ -58096,7 +58096,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-c0586253.png",
+      "image": "myoffice-chunk-1-8aecd0cc.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -58132,7 +58132,7 @@
     {
       "columns": 9,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-c0586253.png",
+      "image": "myoffice-chunk-2-8aecd0cc.png",
       "imageheight": 288,
       "imagewidth": 288,
       "margin": 0,
