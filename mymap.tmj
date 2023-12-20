@@ -58129,7 +58129,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "mymap-chunk-1-17bd1542.png",
+      "image": "mymap-chunk-1-1748e3f1.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -58165,7 +58165,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "mymap-chunk-2-17bd1542.png",
+      "image": "mymap-chunk-2-1748e3f1.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
@@ -58189,10 +58189,5 @@
   "tileheight": 32,
   "tilewidth": 32,
   "version": "1.10",
-  "width": 50,
-  "editorsettings": {
-    "export": {
-      "format": "json"
-    }
-  }
+  "width": 50
 }
