@@ -53069,7 +53069,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-0fbd2dd0.png",
+      "image": "myoffice-chunk-1-05f5d855.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -53105,7 +53105,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-0fbd2dd0.png",
+      "image": "myoffice-chunk-2-05f5d855.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
@@ -53129,10 +53129,5 @@
   "tileheight": 32,
   "tilewidth": 32,
   "version": "1.10",
-  "width": 50,
-  "editorsettings": {
-    "export": {
-      "format": "json"
-    }
-  }
+  "width": 50
 }
