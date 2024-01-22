@@ -602,7 +602,7 @@
                  "id":4,
                  "name":"clock",
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":31,
                  "x":224,
@@ -613,22 +613,77 @@
                  "id":5,
                  "name":"clockPopup",
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":66,
                  "x":261,
                  "y":332
                 }, 
                 {
-                 "height":0,
-                 "id":6,
-                 "name":"",
+                 "height":159,
+                 "id":7,
+                 "name":"teammeeting",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"teammeeting"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":0,
-                 "x":-103,
-                 "y":193
+                 "width":349,
+                 "x":482,
+                 "y":95
+                }, 
+                {
+                 "height":90,
+                 "id":8,
+                 "name":"meeting2",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Meeting2"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":128,
+                 "x":31,
+                 "y":481
+                }, 
+                {
+                 "height":159,
+                 "id":9,
+                 "name":"meeting1",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Meeting1"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":155,
+                 "x":675,
+                 "y":352
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -670,8 +725,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":29,
- "nextobjectid":7,
+ "nextlayerid":30,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"git",
