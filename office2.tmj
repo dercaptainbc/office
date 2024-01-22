@@ -1267,7 +1267,7 @@
       ],
       "height": 23,
       "id": 26,
-      "name": "collisions",
+      "name": "collides",
       "opacity": 1,
       "type": "tilelayer",
       "visible": true,
@@ -8100,6 +8100,7 @@
         0,
         0,
         150,
+        0,
         151,
         0,
         0,
@@ -8125,10 +8126,9 @@
         0,
         0,
         0,
-        0,
         152,
+        0,
         153,
-        152,
         0,
         0,
         0,
@@ -8154,8 +8154,8 @@
         0,
         0,
         154,
+        0,
         155,
-        154,
         0,
         0,
         0,
@@ -10240,7 +10240,7 @@
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "office2-chunk-1-d6e0b6c7.png",
+      "image": "office2-chunk-1-80f495bc.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -10250,7 +10250,28 @@
       "tilecount": 162,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 2,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     }
   ],
   "type": "map",
