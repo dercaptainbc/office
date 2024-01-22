@@ -625,6 +625,11 @@
                  "name":"teammeeting",
                  "properties":[
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"teammeeting"
