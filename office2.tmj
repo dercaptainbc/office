@@ -9591,7 +9591,41 @@
     },
     {
       "name": "floorLayer",
-      "objects": [],
+      "objects": [
+        {
+          "id": 4,
+          "name": "clock",
+          "visible": true,
+          "x": 224,
+          "y": 415,
+          "height": 31,
+          "rotation": 0,
+          "type": "",
+          "width": 31
+        },
+        {
+          "id": 5,
+          "name": "clockPopup",
+          "visible": true,
+          "x": 261,
+          "y": 332,
+          "height": 55,
+          "rotation": 0,
+          "type": "",
+          "width": 66
+        },
+        {
+          "id": 6,
+          "name": "",
+          "visible": true,
+          "x": -103,
+          "y": 193,
+          "height": 0,
+          "rotation": 0,
+          "type": "",
+          "width": 0
+        }
+      ],
       "opacity": 1,
       "type": "objectgroup",
       "visible": true,
@@ -10240,7 +10274,7 @@
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "office2-chunk-1-80f495bc.png",
+      "image": "office2-chunk-1-dab2263a.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -10278,8 +10312,8 @@
   "compressionlevel": -1,
   "height": 23,
   "infinite": false,
-  "nextlayerid": 28,
-  "nextobjectid": 4,
+  "nextlayerid": 29,
+  "nextobjectid": 7,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
