@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json",
-         "target":"office2.tmj"
-        }
-    },
  "height":50,
  "infinite":true,
  "layers":[
@@ -667,7 +659,18 @@
          "draworder":"topdown",
          "id":4,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":733.515151515152,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":862.787878787879,
+                 "x":-895.515151515152,
+                 "y":-351.454545454545
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -1125,7 +1128,7 @@
          "y":0
         }],
  "nextlayerid":25,
- "nextobjectid":1,
+ "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"git",
