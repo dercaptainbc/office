@@ -596,7 +596,40 @@
          "draworder":"topdown",
          "id":4,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":31,
+                 "id":4,
+                 "name":"clock",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":31,
+                 "x":224,
+                 "y":415
+                }, 
+                {
+                 "height":55,
+                 "id":5,
+                 "name":"clockPopup",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":66,
+                 "x":261,
+                 "y":332
+                }, 
+                {
+                 "height":0,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":-103,
+                 "y":193
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -637,8 +670,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":28,
- "nextobjectid":4,
+ "nextlayerid":29,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"git",
