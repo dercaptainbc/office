@@ -1492,7 +1492,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1615,7 +1615,7 @@
          "tilecount":182,
          "tileheight":32,
          "tilewidth":32
-        },
+        }, 
         {
          "columns":8,
          "firstgid":2303,
