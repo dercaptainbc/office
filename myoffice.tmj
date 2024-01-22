@@ -50543,7 +50543,7 @@
       ],
       "opacity": 1,
       "type": "objectgroup",
-      "visible": false,
+      "visible": true,
       "draworder": "topdown",
       "id": 45,
       "class": "objectgroup",
@@ -53069,7 +53069,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-45dc616c.png",
+      "image": "myoffice-chunk-1-3925bd26.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -53105,7 +53105,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-45dc616c.png",
+      "image": "myoffice-chunk-2-3925bd26.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
