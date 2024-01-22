@@ -9600,7 +9600,7 @@
           "y": 415,
           "height": 31,
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 31
         },
         {
@@ -9611,19 +9611,77 @@
           "y": 332,
           "height": 55,
           "rotation": 0,
-          "type": "",
+          "type": "area",
           "width": 66
         },
         {
-          "id": 6,
-          "name": "",
+          "id": 7,
+          "name": "teammeeting",
           "visible": true,
-          "x": -103,
-          "y": 193,
-          "height": 0,
+          "x": 482,
+          "y": 95,
+          "height": 159,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "teammeeting"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
           "rotation": 0,
-          "type": "",
-          "width": 0
+          "type": "area",
+          "width": 349
+        },
+        {
+          "id": 8,
+          "name": "meeting2",
+          "visible": true,
+          "x": 31,
+          "y": 481,
+          "height": 90,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "Meeting2"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 128
+        },
+        {
+          "id": 9,
+          "name": "meeting1",
+          "visible": true,
+          "x": 675,
+          "y": 352,
+          "height": 159,
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "Meeting1"
+            },
+            {
+              "name": "jitsiTrigger",
+              "type": "string",
+              "value": "onaction"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 155
         }
       ],
       "opacity": 1,
@@ -10274,7 +10332,7 @@
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "office2-chunk-1-dab2263a.png",
+      "image": "office2-chunk-1-c32c1f72.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -10312,8 +10370,8 @@
   "compressionlevel": -1,
   "height": 23,
   "infinite": false,
-  "nextlayerid": 29,
-  "nextobjectid": 7,
+  "nextlayerid": 30,
+  "nextobjectid": 11,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
