@@ -397,29 +397,6 @@
          "y":0
         }, 
         {
-         "class":"objectgroup",
-         "draworder":"topdown",
-         "id":4,
-         "name":"floorLayer",
-         "objects":[
-                {
-                 "height":733.515151515152,
-                 "id":3,
-                 "name":"floorLayer",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":862.787878787879,
-                 "x":128.484848484848,
-                 "y":160.545454545455
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -542,6 +519,29 @@
          "type":"tilelayer",
          "visible":true,
          "width":32,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "class":"objectgroup",
+         "draworder":"topdown",
+         "id":4,
+         "name":"floorLayer",
+         "objects":[
+                {
+                 "height":733.515151515152,
+                 "id":3,
+                 "name":"floorLayer",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":862.787878787879,
+                 "x":128.484848484848,
+                 "y":160.545454545455
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
