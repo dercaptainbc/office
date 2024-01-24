@@ -795,7 +795,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"myoffice.tmj#from-new-office"
+                         "value":"office2.wam#from-new-office"
                         }],
                  "rotation":0,
                  "type":"area",
