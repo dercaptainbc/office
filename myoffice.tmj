@@ -50562,9 +50562,9 @@
           "id": 17,
           "name": "from-new-office",
           "visible": true,
-          "x": 418,
-          "y": 1532,
-          "height": 25,
+          "x": 386,
+          "y": 1505,
+          "height": 30,
           "properties": [
             {
               "name": "start",
@@ -50574,7 +50574,7 @@
           ],
           "rotation": 0,
           "type": "area",
-          "width": 29
+          "width": 92
         }
       ],
       "opacity": 1,
@@ -53105,7 +53105,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-1e7e1164.png",
+      "image": "myoffice-chunk-1-1784894c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -53141,7 +53141,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-1e7e1164.png",
+      "image": "myoffice-chunk-2-1784894c.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
