@@ -50562,8 +50562,8 @@
           "id": 17,
           "name": "from-new-office",
           "visible": true,
-          "x": 419,
-          "y": 1519,
+          "x": 418,
+          "y": 1532,
           "height": 25,
           "properties": [
             {
@@ -53105,7 +53105,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-987f096a.png",
+      "image": "myoffice-chunk-1-1e7e1164.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -53141,7 +53141,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-987f096a.png",
+      "image": "myoffice-chunk-2-1e7e1164.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
