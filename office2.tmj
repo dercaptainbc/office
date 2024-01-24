@@ -788,7 +788,7 @@
                  "y":352
                 }, 
                 {
-                 "height":30,
+                 "height":29,
                  "id":11,
                  "name":"to-snow-office",
                  "properties":[
@@ -802,10 +802,10 @@
                  "visible":true,
                  "width":92,
                  "x":449,
-                 "y":800
+                 "y":801
                 }, 
                 {
-                 "height":22,
+                 "height":32,
                  "id":12,
                  "name":"from-snow-office",
                  "properties":[
@@ -817,9 +817,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":28,
-                 "x":481,
-                 "y":769
+                 "width":89,
+                 "x":451,
+                 "y":736
                 }],
          "opacity":1,
          "type":"objectgroup",

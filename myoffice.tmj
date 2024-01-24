@@ -1508,7 +1508,7 @@
                  "y":1568
                 }, 
                 {
-                 "height":25,
+                 "height":30,
                  "id":17,
                  "name":"from-new-office",
                  "properties":[
@@ -1520,9 +1520,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":29,
-                 "x":418,
-                 "y":1532
+                 "width":92,
+                 "x":386,
+                 "y":1505
                 }],
          "opacity":1,
          "type":"objectgroup",
