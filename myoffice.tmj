@@ -50551,7 +50551,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "office2.tmj#from-snow-office"
+              "value": "office2.wam#from-snow-office"
             }
           ],
           "rotation": 0,
@@ -53105,7 +53105,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-33150c27.png",
+      "image": "myoffice-chunk-1-e6bd9a27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -53141,7 +53141,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-33150c27.png",
+      "image": "myoffice-chunk-2-e6bd9a27.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
