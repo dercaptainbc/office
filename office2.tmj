@@ -786,6 +786,40 @@
                  "width":155,
                  "x":675,
                  "y":352
+                }, 
+                {
+                 "height":30,
+                 "id":11,
+                 "name":"to-snow-office",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"myoffice.tmj#from-new-office"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":92,
+                 "x":449,
+                 "y":800
+                }, 
+                {
+                 "height":22,
+                 "id":12,
+                 "name":"from-snow-office",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":28,
+                 "x":480,
+                 "y":755
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -830,8 +864,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":33,
- "nextobjectid":11,
+ "nextlayerid":34,
+ "nextobjectid":13,
  "orientation":"orthogonal",
  "properties":[
         {

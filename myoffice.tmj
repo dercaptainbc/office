@@ -1489,6 +1489,40 @@
                  "width":1587.87878787879,
                  "x":6.06060606060606,
                  "y":0
+                }, 
+                {
+                 "height":30,
+                 "id":16,
+                 "name":"to-new-office",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"office2.tmj#from-snow-office"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":94,
+                 "x":385,
+                 "y":1568
+                }, 
+                {
+                 "height":25,
+                 "id":17,
+                 "name":"from-new-office",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":29,
+                 "x":420,
+                 "y":1529
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1558,7 +1592,7 @@
          "y":0
         }],
  "nextlayerid":50,
- "nextobjectid":16,
+ "nextobjectid":18,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"git",
