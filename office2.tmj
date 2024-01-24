@@ -818,8 +818,8 @@
                  "type":"area",
                  "visible":true,
                  "width":28,
-                 "x":480,
-                 "y":755
+                 "x":482,
+                 "y":740
                 }],
          "opacity":1,
          "type":"objectgroup",
