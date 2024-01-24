@@ -50539,6 +50539,42 @@
           "rotation": 0,
           "type": "",
           "width": 1587.87878787879
+        },
+        {
+          "id": 16,
+          "name": "to-new-office",
+          "visible": true,
+          "x": 385,
+          "y": 1568,
+          "height": 30,
+          "properties": [
+            {
+              "name": "exitUrl",
+              "type": "string",
+              "value": "office2.tmj#from-snow-office"
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 94
+        },
+        {
+          "id": 17,
+          "name": "from-new-office",
+          "visible": true,
+          "x": 420,
+          "y": 1529,
+          "height": 25,
+          "properties": [
+            {
+              "name": "start",
+              "type": "bool",
+              "value": true
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "width": 29
         }
       ],
       "opacity": 1,
@@ -53069,7 +53105,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "myoffice-chunk-1-23ef48fb.png",
+      "image": "myoffice-chunk-1-33150c27.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -53105,7 +53141,7 @@
     {
       "columns": 8,
       "firstgid": 257,
-      "image": "myoffice-chunk-2-23ef48fb.png",
+      "image": "myoffice-chunk-2-33150c27.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
@@ -53123,7 +53159,7 @@
   "height": 50,
   "infinite": false,
   "nextlayerid": 50,
-  "nextobjectid": 16,
+  "nextobjectid": 18,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
