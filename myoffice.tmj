@@ -1498,7 +1498,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"office2.wam#from-snow-office"
+                         "value":"office.wam#from-snow-office"
                         }],
                  "rotation":0,
                  "type":"area",
