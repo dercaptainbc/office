@@ -185,9 +185,9 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"start",
-                 "type":"string",
-                 "value":"teammeeting"
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -244,9 +244,9 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"start",
-                 "type":"string",
-                 "value":"big-meeting"
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -303,9 +303,9 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"start",
-                 "type":"string",
-                 "value":"small-meeting"
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -362,9 +362,9 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"start",
-                 "type":"string",
-                 "value":"outdoor-meeting"
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -866,9 +866,9 @@
                          "value":"onaction"
                         }, 
                         {
-                         "name":"start",
-                         "type":"string",
-                         "value":"teammeeting"
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
                         }],
                  "rotation":0,
                  "type":"area",
