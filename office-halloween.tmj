@@ -1217,25 +1217,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":12,
-         "firstgid":3012,
-         "grid":
-            {
-             "height":128,
-             "orientation":"orthogonal",
-             "width":128
-            },
-         "image":"..\/..\/Downloads\/Halloween_PumpkinPatch\/Halloween_PumpkinPatch_Bright.png",
-         "imageheight":448,
-         "imagewidth":384,
-         "margin":0,
-         "name":"Halloween_PumpkinPatch_Bright",
-         "spacing":0,
-         "tilecount":168,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":39,
          "firstgid":3180,
          "image":"halloween_Tileset_Land_of_pixels\/32px\/allTiles.png",
