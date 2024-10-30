@@ -52,12 +52,12 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0
+                 "value":0.3
                 }, 
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/halloween.mp3"
+                 "value":".\/halloween.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,7 +186,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":34,
          "x":0,
          "y":0
@@ -460,7 +460,7 @@
          "name":"boeden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":34,
          "x":0,
          "y":0
