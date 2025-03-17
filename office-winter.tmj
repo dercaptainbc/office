@@ -82,7 +82,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.5
+                 "value":0.3
                 }, 
                 {
                  "name":"playAudio",
@@ -452,7 +452,7 @@
          "name":"boeden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":34,
          "x":0,
          "y":0
