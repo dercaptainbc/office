@@ -131,7 +131,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/workadventure.stetigwandel.de\/"
+                 "value":"https:\/\/workadventure.stetigwandel.de\/_\/global\/workadventure.stetigwandel.de\/map-storage\/frachtwerk\/fw-office.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
