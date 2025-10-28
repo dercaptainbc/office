@@ -127,12 +127,7 @@
          "id":37,
          "name":"exit",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/workadventure.stetigwandel.de\/_\/global\/workadventure.stetigwandel.de\/map-storage\/frachtwerk\/fw-office.tmj"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":34,
