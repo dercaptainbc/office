@@ -1096,6 +1096,17 @@
                  "width":0,
                  "x":1225.33333333333,
                  "y":-21.3333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":19,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1662.66666666667,
+                 "y":-213.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1142,7 +1153,7 @@
          "y":0
         }],
  "nextlayerid":41,
- "nextobjectid":19,
+ "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1168,7 +1179,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/raw.githubusercontent.com\/dercaptainbc\/office\/refs\/heads\/master\/src\/script.js"
+         "value":"https:\/\/cdn.jsdelivr.net\/gh\/dercaptainbc\/office@master\/src\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.1-99-gec89c545",
