@@ -1,0 +1,1 @@
+const e=WA.room.area.onEnter("exit_to_frachtwerk").subscribe(()=>{console.log("Entering exit zone"),WA.nav.goToPage("https://workadventure.stetigwandel.de/_/global/workadventure.stetigwandel.de/map-storage/frachtwerk/fw-office.tmj")});e.unsubscribe();
