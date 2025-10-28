@@ -3,7 +3,7 @@ let exitTimeout;
 const exitToFrachtwerkSubcription = WA.room.onEnterLayer("exit_to_frachtwerk").subscribe(() => {
     WA.chat.sendChatMessage('Preparing to teleport you to Frachtwerk...', { scope: 'local', author: 'Mr Robot' });
     exitTimeout = setTimeout(() => {
-        WA.nav.goToPage("https://workadventure.stetigwandel.de/_/global/workadventure.stetigwandel.de/map-storage/frachtwerk/fw-office.tmj");
+        WA.nav.goToPage("https://workadventure.stetigwandel.de");
     }, 3000);
 });
 
