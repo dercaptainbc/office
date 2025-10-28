@@ -1168,7 +1168,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/script.js"
+         "value":"https:\/\/cdn.jsdelivr.net\/gh\/dercaptainbc\/office@master\/src\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.1-99-gec89c545",
