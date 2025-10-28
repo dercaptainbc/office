@@ -6,6 +6,6 @@ const exitToFrachtwerkSubcription = WA.room.onEnterLayer("exit_to_frachtwerk").s
 });
 
 WA.room.onLeaveLayer("exit_to_frachtwerk").subscribe(() => {
-    WA.chat.sendMessage("You have left the exit zone.");
+    WA.chat.sendChatMessage("You have left the exit zone.", { scope: 'local', author: 'Mr Robot' });
     exitToFrachtwerkSubcription.unsubscribe();
 });
