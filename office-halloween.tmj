@@ -1085,6 +1085,17 @@
                  "width":64,
                  "x":896,
                  "y":-2.66666666666667
+                }, 
+                {
+                 "height":0,
+                 "id":18,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1225.33333333333,
+                 "y":-21.3333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1131,7 +1142,7 @@
          "y":0
         }],
  "nextlayerid":41,
- "nextobjectid":18,
+ "nextobjectid":19,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1157,7 +1168,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"src\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.1-99-gec89c545",
