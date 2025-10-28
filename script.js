@@ -1,3 +1,5 @@
+let exitTimeout;
+
 const exitToFrachtwerkSubcription = WA.room.onEnterLayer("exit_to_frachtwerk").subscribe(() => {
     WA.chat.sendChatMessage('Preparing to teleport you to Frachtwerk...', { scope: 'local', author: 'Mr Robot' });
     exitTimeout = setTimeout(() => {
